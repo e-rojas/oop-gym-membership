@@ -1,0 +1,26 @@
+{
+  "name": "oop-gym-membership",
+  "version": "1.0.0",
+  "description": "oop membership gym program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-rojas/oop-gym-membership.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Edgar Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-rojas/oop-gym-membership/issues"
+  },
+  "homepage": "https://github.com/e-rojas/oop-gym-membership#readme",
+  "dependencies": {
+    "uniqid": "^5.2.0"
+  }
+}
